@@ -1,0 +1,21 @@
+.thebody
+{
+	margin-left：auto;
+	margin-right:auto;
+	text-align:center;
+	color:red;
+}
+.thehead
+{
+	height:300px;
+	width:auto;
+}
+.alarm
+{
+	color:red;
+	font-size:55px;
+}
+a 
+{
+	text-decoration:none;
+}
