@@ -1,4 +1,4 @@
-.term
+﻿.term
 {
 	margin-left：auto;
 	margin-right:auto;
@@ -20,6 +20,11 @@
 	width:400px;
 	height:200px;
 	float:left;
+}
+.showsmallimg
+{
+	width:130px;
+	height:80px;
 }
 .detail
 {
